@@ -12,7 +12,7 @@ This repository contains Python code to train an autoencoder model on the CIFAR-
 
 ## Usage
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Mahdi-Savoji/cifar10-gray2color-autoencoder.git
 
 
 2. **Install Dependencies**: Install the required dependencies using `pip`:
